@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wangaevans&label=Profile%20views&color=0e75b6&style=flat" alt="wangaevans" /> </p>
 
-<p align="left"> <a href="https://twitter.com/wangaevans" target="blank"><img src="https://img.shields.io/twitter/follow/wangaevans?logo=twitter&style=for-the-badge" alt="wangaevans" /></a> </p>
+<p align="left"> <a href="https://twitter.com/evanator77" target="blank"><img src="https://img.shields.io/twitter/follow/evanator77?logo=twitter&style=for-the-badge" alt="evanator77" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, Kubernetes**
 
@@ -13,12 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/wangaevans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wangaevans" height="30" width="40" /></a>
-<a href="https://twitter.com/wangaevans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wangaevans" height="30" width="40" /></a>
+<a href="https://twitter.com/evanator77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evanator77" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wangaevans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wangaevans" height="30" width="40" /></a>
-<a href="https://fb.com/wangaevans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wangaevans" height="30" width="40" /></a>
 <a href="https://instagram.com/ww_evans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ww_evans" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/wangaevans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wangaevans" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
